@@ -1,0 +1,18 @@
+{
+"package": {
+"productName": "Taskflow",
+"version": "0.1.0"
+},
+"tauri": {
+"windows": [
+{
+"title": "Taskflow",
+"width": 1000,
+"height": 700
+}
+],
+"bundle": {
+"active": true
+}
+}
+}
